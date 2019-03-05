@@ -1,0 +1,6 @@
+[submodule "lib/STM32F4xx_StdPeriph_Driver"]
+	path = lib/STM32F4xx_StdPeriph_Driver
+	url = https://bitbucket.org/KisImre/stm32f4xx_stdperiph_driver.git
+[submodule "lib/CMSIS"]
+	path = lib/CMSIS
+	url = https://bitbucket.org/KisImre/cmsis.git
